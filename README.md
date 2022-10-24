@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @EscAlice
+- 👀 I’m interested in golang
+- 🌱 I’m currently learning typescript
