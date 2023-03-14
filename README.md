@@ -27,10 +27,4 @@
 <a href="https://matrix.to/#/@escalice:matrix.org" target="_blank">
 <img src=	https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white alt=matrix style="margin-bottom: 5px;" />
 </a>
-<a href="https://telegram.me/escalice" target="_blank">
-<img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/escalice2" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a> 
 </div> 
